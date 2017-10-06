@@ -11,7 +11,7 @@ Algoritmo ejercicio3
 	Escribir "--------------------------------------------------"
 	Escribir " "
 	Escribir "VAMOS !!!"
-	
+
 	Escribir "- Ingresa un numero" 
 	Leer numero
 	

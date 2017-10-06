@@ -53,7 +53,7 @@ Algoritmo ejercicio_5
 	Escribir "--------------------------------------------------"
 	Escribir " "
 	Escribir "VAMOS !!!"
-	
+
 	Escribir " "
 	Escribir "À Piedra(1), Papel(2) o Tijera(3) ?"
 	Leer usuario

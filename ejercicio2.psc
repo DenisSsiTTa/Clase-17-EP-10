@@ -20,7 +20,6 @@ Algoritmo ejercicio_2
 	Escribir " "
 	Escribir "VAMOS !!!"
 	
-	
 	Repetir
 		Escribir " "
 		Escribir "- Ingresa el primer nœmero"

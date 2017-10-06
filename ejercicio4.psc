@@ -33,9 +33,9 @@ Algoritmo ejercicio_4
 	Leer numero2
 	Escribir "- Ingresa el tercer nœmero"
 	Leer numero3
-	
+
 	respuesta <- numeroMayor(numero1, numero2, numero3)
-	
+
 	Escribir "--------------------------------------------------"
 	Escribir "El nœmero mayor es: ", respuesta
 	Escribir "--------------------------------------------------"
